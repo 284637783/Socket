@@ -1,0 +1,10 @@
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\bin\Debug\Socket通讯-客户端.exe.config
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\bin\Debug\Socket通讯-客户端.exe
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\bin\Debug\Socket通讯-客户端.pdb
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯-客户端.csprojAssemblyReference.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯_客户端.Form1.resources
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯_客户端.Properties.Resources.resources
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯-客户端.csproj.GenerateResource.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯-客户端.csproj.CoreCompileInputs.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯-客户端.exe
+C:\Users\28463\source\repos\Socket通讯\Socket通讯-客户端\obj\Debug\Socket通讯-客户端.pdb

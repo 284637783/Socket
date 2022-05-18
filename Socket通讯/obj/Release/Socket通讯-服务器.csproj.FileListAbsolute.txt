@@ -1,0 +1,31 @@
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe.config
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\bin\Release\Socket通讯.pdb
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csprojAssemblyReference.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯.Form1.resources
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯.Properties.Resources.resources
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.GenerateResource.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.CoreCompileInputs.cache
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯.exe
+C:\Users\28463\source\repos\Socket通讯\Socket通讯\obj\Release\Socket通讯.pdb
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe.config
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\bin\Release\Socket通讯.pdb
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csprojAssemblyReference.cache
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯.Form1.resources
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯.Properties.Resources.resources
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.GenerateResource.cache
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.CoreCompileInputs.cache
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯.exe
+C:\Users\28463\Desktop\Socket通讯\Socket通讯\obj\Release\Socket通讯.pdb
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe.config
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\bin\Release\Socket通讯.exe
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\bin\Release\Socket通讯.pdb
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.AssemblyReference.cache
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.SuggestedBindingRedirects.cache
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯.Form1.resources
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯.Properties.Resources.resources
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.GenerateResource.cache
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯-服务器.csproj.CoreCompileInputs.cache
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯.exe
+C:\Users\lw\OneDrive - zju.edu.cn\VS\Socket通讯\Socket通讯\obj\Release\Socket通讯.pdb
